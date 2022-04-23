@@ -2,8 +2,7 @@
 Used this GitHub Profil Generator and modified it
 https://rahuldkjain.github.io/gh-profile-readme-generator/
 -->
-<img src="./resources/banner.jpg" width="1700" 
-     height="600">
+<img src="./resources/banner.jpg">
 
 <h2 align="center">Skills</h2>
 
