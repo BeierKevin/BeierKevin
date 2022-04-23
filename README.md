@@ -2,10 +2,8 @@
 Used this GitHub Profil Generator and modified it
 https://rahuldkjain.github.io/gh-profile-readme-generator/
 -->
-
-<h1 align="center">Hi 👋, I'm Kevin</h1>
-
-<h4 align="center">I am currently studying for my Bachelor of Science (Computer Science).</h4>
+<img src="./resources/banner.jpg" width="1700" 
+     height="600">
 
 <h2 align="center">Skills</h2>
 
