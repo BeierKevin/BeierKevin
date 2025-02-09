@@ -1,0 +1,13 @@
+{
+  "name": "BeierKevin",
+  "version": "0.0.0",
+  "description": "Hi, I am Kevin Beier",
+  "bugs": "https://github.com/BeierKevin/BeierKevin",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BeierKevin/BeierKevin"
+  },
+  "author": "BeierKevin <beierkevin@icloud.com>",
+  "license": "MIT",
+  "main": "index.js"
+}
